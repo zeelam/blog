@@ -5,14 +5,17 @@
 
 ## Machine Learning :desktop_computer:
 
-[机器学习中的数学1-微分基础+梯度下降](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学1.md)
-
-[机器学习中的数学2-微分进阶+反向传播](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学2.md)
-
-整理自 七月在线-机器学习中的数学 课程
+- 机器学习中的数学（整理自 七月在线-机器学习中的数学 课程）
+  - [机器学习中的数学1-微分基础+梯度下降](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学1.md)
+  - [机器学习中的数学2-微分进阶+反向传播](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学2.md)
 
 ## Java :coffee:
 
+浪哥说打算5月开始写关于SpringMVC的东西
+
+
+
+## 后记 :pencil:
 
 **关于仓库**
 
