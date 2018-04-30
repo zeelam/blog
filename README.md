@@ -1,4 +1,4 @@
-# 程序猿的博客
+#程序猿的博客
 
 :smile:本仓库是几个程序猿好友一起记录一些笔记、经验的仓库，大家随意看看
 </br>
@@ -8,6 +8,7 @@
 - 机器学习中的数学（整理自 七月在线-机器学习中的数学 课程）
   - [机器学习中的数学1-微分基础+梯度下降](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学1.md)
   - [机器学习中的数学2-微分进阶+反向传播](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学2.md)
+  - [机器学习中的数学3-概率论简介](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学3.md)
 
 ## Java :coffee:
 
@@ -26,11 +27,7 @@
 
 **合作人**
 
-[张梓霖](https://github.com/zeelam)
-
-[骆赞浪](https://github.com/luozanlang)
-
-[赵宏洋](https://github.com/zhyyyy)
+[张梓霖](https://github.com/zeelam)、[骆赞浪](https://github.com/luozanlang)、[赵宏洋](https://github.com/zhyyyy)
 
 **关于转载**
 
