@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Singleton 单例模式
+## 面试题2-Singleton 单例模式
 
 - 懒汉式
 
@@ -92,3 +92,45 @@
   **《Effective Java》中的推荐写法，线程安全、提供了序列化机制、防止反射调用构造器**
 
 通常情况下，其实用饿汉式就足够了，一般没有人加载了实例但是不调用方法闲的蛋疼的吧。
+
+
+
+## 面试题3-数组中重复的数字
+
+> 题目一：找出数组中重复的数字
+>
+> 在一个长度为n的数组里的所有数字都在0~n-1的范围内。数组中某些数字是重复的，但不知道有几个数字重复了，也不知道每个数字重复了几次。请找出数组中**任意一个**重复的数字。例如，如果输入长度为7的数组{2,3,1,0,2,5,3}，那么对应的输出是重复的数字2或者3
+
+```java
+public class Solution {
+    
+    public boolean duplicate(int[] nums,int duplication){
+        // 判断数组不为空，并且长度 > 1
+        if(nums == null || nums.length <= 1){
+            return false;
+        }
+        // 从数组下标为0遍历到下标为n-1,将当前i下标的数字放到该数字为下标的位置上，如果出现重复，则该数为重复的数，并且为该数组中有重复的数，返回true，如果便利到最后没有，则返回false
+        for (int i = 0, i < nums.length; i++){
+            while(nums[i] != i){
+                if (nums[i] == nums[nums[i]]){
+                    duplication = nums[i];
+                    return true;
+                }
+                swap(nums, i, nums[i]);
+            }
+        }
+        return false;
+    }
+    
+    /**
+    * 交换
+    */
+    private void swap(int[] nums, int i, int j){
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
+    }
+    
+}
+```
+
