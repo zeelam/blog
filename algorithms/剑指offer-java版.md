@@ -1,6 +1,8 @@
 # 剑指Offer Java版 题解
 
-[TOC]
+[面试题2-Singleton单例模式](https://github.com/zeelam/blog/blob/master/algorithms/%E5%89%91%E6%8C%87offer-java%E7%89%88.md#%E9%9D%A2%E8%AF%95%E9%A2%982-singleton-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
+
+[面试题3-数组中重复的数字](https://github.com/zeelam/blog/blob/master/algorithms/%E5%89%91%E6%8C%87offer-java%E7%89%88.md#%E9%9D%A2%E8%AF%95%E9%A2%983-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97)
 
 ## 面试题2-Singleton 单例模式
 
