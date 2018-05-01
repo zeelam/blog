@@ -11,7 +11,7 @@
 - pytorch + caffe2
 - mxnet
 - caffe
-- eras TFlearn tensorlayer
+- keras TFlearn tensorlayer
 
 #### 机器学习
 
