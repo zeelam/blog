@@ -5,15 +5,19 @@
 
 ## 算法 :pencil2:
 
-[剑指Offer Java版 题解](https://github.com/zeelam/blog/blob/master/algorithms/剑指offer-java版.md)
+- 《剑指Offer》
+
+  [剑指Offer Java版 题解](https://github.com/zeelam/blog/blob/master/algorithms/剑指offer-java版.md)
 
 
 ## Machine Learning :desktop_computer:
 
 - 机器学习中的数学（整理自 七月在线-机器学习中的数学 课程）
-  - [机器学习中的数学1-微分基础+梯度下降](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学1.md)
-  - [机器学习中的数学2-微分进阶+反向传播](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学2.md)
-  - [机器学习中的数学3-概率论简介](https://github.com/zeelam/blog/blob/master/ml/机器学习中的数学3.md)
+  - [机器学习中的数学1-微分基础+梯度下降](https://github.com/zeelam/blog/blob/master/ml/math/机器学习中的数学1.md)
+  - [机器学习中的数学2-微分进阶+反向传播](https://github.com/zeelam/blog/blob/master/ml/math/机器学习中的数学2.md)
+  - [机器学习中的数学3-概率论简介](https://github.com/zeelam/blog/blob/master/ml/math/机器学习中的数学3.md)
+- Python
+  - [python基础](https://github.com/zeelam/blog/blob/master/ml/python/python基础.md)
 
 ## Java :coffee:
 
